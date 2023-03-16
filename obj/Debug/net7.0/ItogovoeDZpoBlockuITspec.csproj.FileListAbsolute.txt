@@ -1,0 +1,15 @@
+C:\itogiBloka\ItogovoeDZpoBlockuITspec\bin\Debug\net7.0\ItogovoeDZpoBlockuITspec.exe
+C:\itogiBloka\ItogovoeDZpoBlockuITspec\bin\Debug\net7.0\ItogovoeDZpoBlockuITspec.deps.json
+C:\itogiBloka\ItogovoeDZpoBlockuITspec\bin\Debug\net7.0\ItogovoeDZpoBlockuITspec.runtimeconfig.json
+C:\itogiBloka\ItogovoeDZpoBlockuITspec\bin\Debug\net7.0\ItogovoeDZpoBlockuITspec.dll
+C:\itogiBloka\ItogovoeDZpoBlockuITspec\bin\Debug\net7.0\ItogovoeDZpoBlockuITspec.pdb
+C:\itogiBloka\ItogovoeDZpoBlockuITspec\obj\Debug\net7.0\ItogovoeDZpoBlockuITspec.csproj.AssemblyReference.cache
+C:\itogiBloka\ItogovoeDZpoBlockuITspec\obj\Debug\net7.0\ItogovoeDZpoBlockuITspec.GeneratedMSBuildEditorConfig.editorconfig
+C:\itogiBloka\ItogovoeDZpoBlockuITspec\obj\Debug\net7.0\ItogovoeDZpoBlockuITspec.AssemblyInfoInputs.cache
+C:\itogiBloka\ItogovoeDZpoBlockuITspec\obj\Debug\net7.0\ItogovoeDZpoBlockuITspec.AssemblyInfo.cs
+C:\itogiBloka\ItogovoeDZpoBlockuITspec\obj\Debug\net7.0\ItogovoeDZpoBlockuITspec.csproj.CoreCompileInputs.cache
+C:\itogiBloka\ItogovoeDZpoBlockuITspec\obj\Debug\net7.0\ItogovoeDZpoBlockuITspec.dll
+C:\itogiBloka\ItogovoeDZpoBlockuITspec\obj\Debug\net7.0\refint\ItogovoeDZpoBlockuITspec.dll
+C:\itogiBloka\ItogovoeDZpoBlockuITspec\obj\Debug\net7.0\ItogovoeDZpoBlockuITspec.pdb
+C:\itogiBloka\ItogovoeDZpoBlockuITspec\obj\Debug\net7.0\ItogovoeDZpoBlockuITspec.genruntimeconfig.cache
+C:\itogiBloka\ItogovoeDZpoBlockuITspec\obj\Debug\net7.0\ref\ItogovoeDZpoBlockuITspec.dll
